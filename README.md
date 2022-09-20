@@ -24,9 +24,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 GitHub page: https://janellecikanek.github.io/Password-Generator/
 
-    ```md
-    ![alt Password Generator](..develop/ScreenShot.png)
-    ```
+
+    ![alt Password Generator](ScreenShot.png)
+    
 
 
 ## License
