@@ -19,15 +19,11 @@ This generator was created with JavaScript, CSS and HTML.
 
 To generate your own secure password please go to: 
 
-
-Provide instructions and examples for use. Include screenshots as needed.
-
 GitHub page: https://janellecikanek.github.io/Password-Generator/
 
-
+'''
     ![alt Password Generator](ScreenShot.png)
-    
-
+'''
 
 ## License
 Please refer to the License in the repo.
