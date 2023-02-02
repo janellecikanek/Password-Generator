@@ -26,4 +26,4 @@ GitHub page: https://janellecikanek.github.io/Password-Generator/
 '''
 
 ## License
-Please refer to the License in the repo.
+Refer to the License in the repo.
