@@ -22,7 +22,7 @@ To generate your own secure password please go to:
 GitHub page: https://janellecikanek.github.io/Password-Generator/
 
 '''
-    ![alt Password Generator](ScreenShot.png)
+    ![alt Password Generator](assets/images/ScreenShot.png)
 '''
 
 ## License
